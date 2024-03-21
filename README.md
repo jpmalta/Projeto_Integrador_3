@@ -8,9 +8,9 @@ Assim, a iniciativa de desenvolver um sistema de controle de ponto eletrônico n
 Relatório (Leitor): https://docs.google.com/document/d/1fNK0QlwB_l9MZNPb5ZqmkKkTnFRsTjPihtAcEs8I2JA/edit?usp=sharing
 
 Integrantes
-- GABRIEL HENRIQUE DA SILVA | RA:
-- GUSTAVO SANTOS STELUTI | RA:
-- JOÃO PEDRO COSTA MALTA | RA:
-- LUCAS DE LIMA BENVENUTI | RA:
+- GABRIEL HENRIQUE DA SILVA | RA: 22020864
+- GUSTAVO SANTOS STELUTI | RA: 23016017
+- JOÃO PEDRO COSTA MALTA | RA: 23002743
+- LUCAS DE LIMA BENVENUTI | RA: 20030714
 - RENAN OLIVEIRA DA SILVA | RA: 22020962
 - SAMANTHA DELL VECCHIO ESTEVES | RA: 22871941
